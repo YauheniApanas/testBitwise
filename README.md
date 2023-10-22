@@ -27,7 +27,7 @@ PASSWORD=your_password
 
 docker-compose up
 
-5\. После успешного запуска, ваше Flask-приложение будет доступно по
+5\. После успешного запуска, Flask-приложение будет доступно по
 адресу \`http://localhost:5000\`.
 
 Для тестирования запросов к API можно использовать Insomnia(https://insomnia.rest) или Postman(https://www.postman.com/).
